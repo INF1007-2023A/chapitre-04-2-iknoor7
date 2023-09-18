@@ -4,6 +4,9 @@
 import random
 
 def get_first_part_of_name(name):
+	if TODO: Extraire premier prénom
+	if TODO: Capitaliser le premier prénom
+	if TODO: Insérer dans la phrase
 	return ""
 
 def get_random_sentence(animals, adjectives, fruits):
